@@ -7,3 +7,11 @@ https://api.bap.microsoft.com/providers/Microsoft.BusinessAppPlatform/scopes/adm
 
 # References
 https://www.blog.allandecastro.com/leverage-the-power-platform-api-to-create-a-capacity-report/
+
+# Effect of Environment Group Setting
+![Sample Environment Group Rules](screenshots/Test-Env-Group-Rules.jpg)
+
+![Effect on Generative AI feature settings](screenshots/Test-Env-Group-Rules-Effect-1.jpg)
+
+![Effect on Product Features settings](screenshots/Test-Env-Group-Rules-Effect-2.jpg)
+
